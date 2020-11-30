@@ -1,0 +1,20 @@
+{
+  "name": "vidme-nodejs-vuejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "eslint-loader": "^2.1.2",
+    "express": "*",
+    "socket.io": "*"
+  },
+  "devDependencies": {
+    "nodemon": "*",
+    "webpack": "^5.9.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
